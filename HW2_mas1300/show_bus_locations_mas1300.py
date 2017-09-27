@@ -29,3 +29,4 @@ for e in t:
 	print(line)
 	x+=1
 
+'''got help from friend'''
