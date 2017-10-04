@@ -21,4 +21,5 @@ used
 #http://www.dummies.com/education/math/statistics/how-to-determine-a-p-value-when-testing-a-null-hypothesis/
 #http://www.statisticshowto.com/tables/z-table/#left
 #https://github.com/fedhere/UInotebooks/blob/master/slides2017/UI3_2017.pdf
+#http://www.investopedia.com/terms/c/central_limit_theorem.asp
 
