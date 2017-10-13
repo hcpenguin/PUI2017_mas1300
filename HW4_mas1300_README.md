@@ -6,6 +6,7 @@ Multiple Regression	| work engagement | scalar | Grit| scalar| (model 2)age, sex
 ](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137501)
 
 
-
+For table formatting consulted with Baoling
+for part 3vconsulted with Baoling and Gerardo, just to check my results 
 
 
