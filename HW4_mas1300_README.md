@@ -7,6 +7,7 @@ Multiple Regression	| work engagement | scalar | Grit| scalar| (model 2)age, sex
 
 
 For table formatting consulted with Baoling
-for part 3vconsulted with Baoling and Gerardo, just to check my results 
+/
+for part 3 consulted with Baoling and Gerardo, just to check my results 
 
 
