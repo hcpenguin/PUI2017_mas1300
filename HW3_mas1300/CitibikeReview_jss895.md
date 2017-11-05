@@ -15,3 +15,5 @@ I think the data processing was correct, there might only be a little issue with
 
 ### 4. Recommended statistical test.
 Given the experiment conditions, where the objective is to compare means of continuous variables (without an inteligible standard deviation because values can only take "Nightime" or "Daytime"), with a large sample for all groups I would recommend using a T test or a Pearson test.
+
+# FBB very good! should be very helpful to your classmate (her hypothesis is formulated incorrectly in fact)
