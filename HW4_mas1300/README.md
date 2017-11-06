@@ -1,3 +1,5 @@
+# FBB this file needs to be named README.md to be rendered! not HW4_mas1300_README.md
+
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Logistic Regression	| workaholism (0 = non-workaholic, 1 = workaholic) | binary| socio-demographics and the psychiatric symptoms (ADHD, OCD, anxiety, depression), | categorical (dichotomized according to cutoffs)| demographic variables (age, gender, relationship status, and education). and Work-related variables (work status, position, sector, and gross income) | categorical and scalar | is there a positive association between anxiety, depression, and workaholism | that there will not be a positive association between anxiety, depression, and workaholism | 0.05 | [The Relationships between Workaholism and Symptoms of Psychiatric Disorders](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152978) |
